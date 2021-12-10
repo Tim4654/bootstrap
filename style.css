@@ -1,0 +1,13 @@
+
+.container-fluid{
+    background:silver;
+}
+
+.navbar-brand{
+    font-family: Arial Rounded MT bold;
+    font-size: 30px;
+}
+
+.img{
+    height:1000px;
+}
