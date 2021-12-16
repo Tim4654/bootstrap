@@ -1,6 +1,6 @@
 
-.container-fluid{
-    background:silver;
+body{
+    background-color:#EBFEF2 ;
 }
 
 .navbar-brand{
@@ -9,5 +9,20 @@
 }
 
 .img{
-    height:1000px;
+    width:100%;
+    max-height:1000px;
+
+}
+/*
+=================================================
+HERO SECTION
+=================================================
+*/
+.custom-hero{
+    background-image:url('image/car-header-purple.jpeg');
+    background-size: cover;
+    background-position:center;
+}
+.hero-f{
+    color:whitesmoke;
 }
